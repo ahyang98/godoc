@@ -1,1 +1,1 @@
-# godoc
+# record go knowledge
